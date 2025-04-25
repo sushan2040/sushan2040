@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on cloud technologies
 - 📫 How to reach me email me @sushantnikam105@gmail.com
 - ⚡ Fun fact: I can grasp things,ideas,concept quickly.
+- ![_](https://github.com/user-attachments/assets/7629ff7c-d38f-4e32-aa78-afadb29bb356)
 
-<!---
+
+<!---![_]()
+
 sushan2040/sushan2040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
