@@ -38,7 +38,7 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushan2040&layout=compact&langs_count=6&hide=html,css&theme=radical&hide_border=true)](https://github.com/sushan2040)
+[![Top Languages](https://github-contributor-stats.vercel.app/api?username=sushant2040&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/sushan2040)
 
 
 
