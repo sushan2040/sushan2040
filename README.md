@@ -39,7 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![E-Commerce Repo](https://github-readme-stats.vercel.app/api/pin/?username=sushan2040&repo=ecommerce&theme=radical&hide_border=true)](https://github.com/sushan2040/ecommerce)
 
 <!---![_]()
 
